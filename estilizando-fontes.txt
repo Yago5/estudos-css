@@ -1,0 +1,24 @@
+<html>
+    <head>
+      <title>Módulo CSS</title>
+     <style>
+      * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    font-size: 17px;
+    font-weight: italic;
+    font-style: normal;
+}
+     </style>
+    </head>
+    <body>
+        <h2>Olá Mundo</h2>
+        <p>Ola Mundo</p>
+    </body>
+<!--Copie e cole o link de prévia http://127.0.0.1:5500/aula2/aul2.html-->
+</html>
